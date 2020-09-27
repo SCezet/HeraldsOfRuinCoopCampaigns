@@ -12,7 +12,7 @@
 #### Johanna von Ophelia - CANONESS REGULAR (35+9+5+7 = 56) 
 
 **Rules**
-> Acts of Faith / Shield of Faith / Sacred Rites / Guide the Faithful / Incensor Cherub / Hero
+> Acts of Faith / Shield of Faith / Sacred Rites / Guide the Faithful / Hero
 
 **Equipment**
 > Jump Pack / Inferno Pistol / Blessed Blade / Frag Grenade / Krag Grenade
@@ -63,7 +63,7 @@
 #### Longina - Imagifier (30)
 
 **Rules**
-> Acts of Faith / Shield of Faith / Sacred Rites / Litany of Deeds / Hero
+> Acts of Faith / Shield of Faith / Sacred Rites / Litany of Deeds / Laud Hailer / Spiritual Fortitude /  Hero
  
 **Equipment**
 > Bolt Pistol / Frag Grenade / Krag Grenade 
@@ -71,12 +71,12 @@
 #### Longina - Dialogus (18)
 
 **Rules**
-> Acts of Faith / Shield of Faith / Sacred Rites / Litany of Deeds / Hero
+> Acts of Faith / Shield of Faith / Sacred Rites / Stirring Rhetoric / Hero
  
 **Equipment**
-> Bolt Pistol / Frag Grenade / Krag Grenade 
+> Bolt Pistol / Dialogus Staff
 
-### Total Points (197)
+### Total Points (246)
 => 56 + 20 + 48 + 26 + 22 + 26 + 30 + 18 = 246
 
 ### Keywords (13)
