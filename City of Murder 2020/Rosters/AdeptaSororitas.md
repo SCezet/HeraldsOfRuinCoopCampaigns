@@ -63,7 +63,7 @@
 #### Longina - Imagifier (30)
 
 **Rules**
-> Acts of Faith / Shield of Faith / Sacred Rites / Litany of Deeds / Laud Hailer / Spiritual Fortitude /  Hero
+> Acts of Faith / Shield of Faith / Sacred Rites / Litany of Deeds /  Hero
  
 **Equipment**
 > Bolt Pistol / Frag Grenade / Krag Grenade 
@@ -71,7 +71,8 @@
 #### Longina - Dialogus (18)
 
 **Rules**
-> Acts of Faith / Shield of Faith / Sacred Rites / Stirring Rhetoric / Hero
+> Acts of Faith / Shield of Faith / Sacred Rites / Stirring Rhetoric /  Laud Hailer / Spiritual Fortitude /  Hero
+ 
  
 **Equipment**
 > Bolt Pistol / Dialogus Staff
